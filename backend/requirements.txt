@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+requests
+beautifulsoup4
+pydantic
+pydantic-settings
+python-multipart
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+email-validator
+httpx
+jinja2
