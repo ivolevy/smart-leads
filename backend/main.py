@@ -27,6 +27,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+async def root():
+    return {"message": "B2B Lead Acquisition API is running"}
+
 # Models
 class SearchRequest(BaseModel):
     rubro: str
