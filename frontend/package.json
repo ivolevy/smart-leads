@@ -12,7 +12,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.90.1",
     "axios": "^1.13.2",
-    "jspdf": "^4.0.0",
+    "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.2",
     "lucide-react": "^0.562.0",
     "react": "^19.2.0",
